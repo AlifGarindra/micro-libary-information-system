@@ -1,0 +1,22 @@
+{
+  "name": "mahasiswa",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.12.0"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon mahaapp.js"
+  },
+  "author": "Alif Garindra",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "staff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "staffapp.js",
+  "scripts": {
+    "start": "nodemon staffapp.js"
+  },
+  "author": "Alif Garindra",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
